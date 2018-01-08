@@ -1,4 +1,7 @@
-'''https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python/notebook'''
+'''
+https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python/notebook
+https://zhuanlan.zhihu.com/p/29418981
+'''
 
 # Load in our libraries
 import pandas as pd
